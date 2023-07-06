@@ -6,7 +6,7 @@ See https://rustup.rs
 
 ## Setup
 
-```
+````
 git clone https://github.com/CocDap/Rust-Bootcamp-2023
 cd Rust-Bootcamp-2023
 ```
